@@ -1,0 +1,16 @@
+{
+  "showDialog": true,
+  "appVersionCode": 1,
+  "messageText": "Oops! ⏰ RDX OFC² V7 HAS BEEN EXPIRED 😑 CLICK UPDATE BUTTON AND DOWNLOAD NEW VERSION ☺.",
+  "updateButtonText": "Update",
+  "updateButtonLink": "https://t.me/+KTe6tT2liKQ4MWE9",
+  "updateButtonGradientStartColor": "#1E88E5",
+  "updateButtonGradientEndColor": "#64B5F6",
+  "cancelButtonText": "Exit",
+  "cancelClosesApp": true,
+  "cancelButtonGradientStartColor": "#1E88E5",
+  "cancelButtonGradientEndColor": "#64B5F6",
+  "textGradientStartColor": "#1E88E5",
+  "textGradientEndColor": "#64B5F6",
+  "dialogBackgroundColor": "#FFFFFF"
+}
